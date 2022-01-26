@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Shreyash
 #### I am undergrad student in computer science engineering(2023)
-![I am undergrad student in computer science engineering(2023)]()
+![I am undergrad student in computer science engineering(2023)]
 
 I am Shreyash Chavan I am interested in web development and open source contributions
 
