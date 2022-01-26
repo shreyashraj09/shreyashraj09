@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Shreyash
 #### I am undergrad student in computer science engineering(2023)
-![I am undergrad student in computer science engineering(2023)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am undergrad student in computer science engineering(2023)]()
 
 I am Shreyash Chavan I am interested in web development and open source contributions
 
@@ -12,7 +12,7 @@ Skills: Java/ JavaScript/REACT / JS / HTML / CSS
 - 🌱 I’m currently learning React 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shreyashraj09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shreyash-chavan-5547b6207/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shreyash.chavan.09/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShreyashSPEAK)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shreyashraj09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shreyash-chavan-5747b6207/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shreyash.chavan.09/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShreyashSPEAK)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
